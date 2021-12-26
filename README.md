@@ -1,5 +1,3 @@
-# SC_brick_game
+#Predefinisan projekat # 3
 
-SW64-2017
-
-Predefinisan projekat # 3
+-SW64-2017
