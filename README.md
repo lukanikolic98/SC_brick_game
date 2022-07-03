@@ -3,4 +3,4 @@
 
 - Luka Nikolic SW64/2017
 
-Asistent: Dragan Vidaković
+- Asistent: Dragan Vidaković
